@@ -1,3 +1,4 @@
 # launchpad-mini-mapper
 Novation's launchpad mini mark i Mapper
 Windows 11 app
+Novation stopped supporting the Launchpad Mini MK1, so I built something to bring it back to life. 🎛️ Launchpad Mini Mapper is a free Windows app that turns every pad into a shortcut: launch apps, fire hotkeys, control volume and brightness, switch between 8 pages, and light each button in the color you choose. It has press, hold and double-press actions, a hotkey recorder, a tray icon that reconnects automatically, and even a startup light show that scrolls your own text across the pads. No drivers, no extra installs, just one small Python file. Get it on GitHub: https://github.com/Beyondfilms/launchpad-mini-mapper ☕ If it saves your old Launchpad from a drawer, you can buy me a coffee: https://ko-fi.com/beyondfilms #Launchpad #Novation #MIDI #Windows #OpenSource #Productivity
